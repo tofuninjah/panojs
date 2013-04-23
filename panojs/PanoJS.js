@@ -133,11 +133,11 @@ PanoJS.MSG_BEYOND_MAX_ZOOM = 'Cannot zoom in beyond the current level.';
 
 // defaults if not provided as constructor options
 PanoJS.TILE_BASE_URI = 'tiles';
-PanoJS.TILE_PREFIX = 'tile-';
-PanoJS.TILE_EXTENSION = 'jpg';
+PanoJS.TILE_PREFIX = 'tiles_';
+PanoJS.TILE_EXTENSION = 'png';
 PanoJS.TILE_SIZE = 256;
-PanoJS.BLANK_TILE_IMAGE = 'blank.gif';
-PanoJS.LOADING_TILE_IMAGE = 'blank.gif';
+PanoJS.BLANK_TILE_IMAGE = '../images/blank.gif';
+PanoJS.LOADING_TILE_IMAGE = '../images/blank.gif';
 PanoJS.INITIAL_PAN = { 'x' : .5, 'y' : .5 };
 PanoJS.USE_LOADER_IMAGE = true;
 PanoJS.USE_SLIDE = true;

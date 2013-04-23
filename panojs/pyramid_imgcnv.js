@@ -91,6 +91,6 @@ ImgcnvPyramid.prototype.tile_filename = function( level, x_coordinate, y_coordin
     var l = formatInt( this.getLevel(level).level , 3);
     var x = formatInt(x_coordinate, 3);
     var y = formatInt(y_coordinate, 3);    
-    return "" + l + "_" + x + "_" + y + ".jpg";//?"+level;    
+    return "" + l + "_" + x + "_" + y + ".png";//?"+level;    
 }
 

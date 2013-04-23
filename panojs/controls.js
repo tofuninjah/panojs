@@ -10,15 +10,15 @@
 
 *******************************************************************************/
 
-PanoJS.CONTROL_IMAGE_ZOOMIN   = "images/32px_plus.png";
-PanoJS.CONTROL_IMAGE_ZOOM11   = "images/32px_11.png";
-PanoJS.CONTROL_IMAGE_ZOOMOUT  = "images/32px_minus.png";
-PanoJS.CONTROL_IMAGE_MAXIMIZE = "images/32px_show.png";
+PanoJS.CONTROL_IMAGE_ZOOMIN   = "../images/32px_plus.png";
+PanoJS.CONTROL_IMAGE_ZOOM11   = "../images/32px_11.png";
+PanoJS.CONTROL_IMAGE_ZOOMOUT  = "../images/32px_minus.png";
+PanoJS.CONTROL_IMAGE_MAXIMIZE = "../images/32px_show.png";
 
-PanoJS.CONTROL_IMAGE_ZOOMIN_TOUCH   = "images/64px_plus.png";
-PanoJS.CONTROL_IMAGE_ZOOM11_TOUCH   = "images/64px_11.png";
-PanoJS.CONTROL_IMAGE_ZOOMOUT_TOUCH  = "images/64px_minus.png";
-PanoJS.CONTROL_IMAGE_MAXIMIZE_TOUCH = "images/64px_show.png";
+PanoJS.CONTROL_IMAGE_ZOOMIN_TOUCH   = "../images/64px_plus.png";
+PanoJS.CONTROL_IMAGE_ZOOM11_TOUCH   = "../images/64px_11.png";
+PanoJS.CONTROL_IMAGE_ZOOMOUT_TOUCH  = "../images/64px_minus.png";
+PanoJS.CONTROL_IMAGE_MAXIMIZE_TOUCH = "../images/64px_show.png";
 
 PanoJS.CONTROL_STYLE = "position: absolute; z-index: 30; "; //opacity:0.5; filter:alpha(opacity=50); ";
 
